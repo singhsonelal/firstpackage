@@ -9,6 +9,11 @@
             "email": "sonelalsingh@gmail.com"
         }
     ],
+	"autoload":{
+		"psr-4":{
+			"sonelal\\HelloWorld\\" : "src/"
+		}
+	}
     "minimum-stability": "stable",
     "require": {}
 }
