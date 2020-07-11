@@ -1,0 +1,14 @@
+{
+    "name": "singhsonelal/firstpackage",
+    "description": "first package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sonelal Singh",
+            "email": "sonelalsingh@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
