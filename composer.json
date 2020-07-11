@@ -13,7 +13,7 @@
 		"psr-4":{
 			"sonelal\\HelloWorld\\" : "src/"
 		}
-	}
+	},
     "minimum-stability": "stable",
     "require": {}
 }
